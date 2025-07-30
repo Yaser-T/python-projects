@@ -1,4 +1,4 @@
-python-projects
+Python-projects
 Academic Python Projects – Master's Studies
 This repository includes Python-based projects I completed during my Master's studies.  
 Topics include:
